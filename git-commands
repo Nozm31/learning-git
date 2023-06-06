@@ -1,0 +1,30 @@
+============ One time settings ==================
+
+git config --global user.name ==> sets the username of whoever will be using git.
+
+git config --global user.email ==> sets the email address of whoever will be using git.
+
+
+===================Actual git commands =========================
+
+git init ==> tells git to start tracking this folder.
+
+git clone ==> copy work from the remote server
+
+git status ==> checks for the current state of our repository or folder.
+
+git add .(dot) ==> all everything to git's waiting area
+
+git add git-commands ==> add only a file called git-commands to git's waiting area.
+
+git commit -m "messages meaning messages" ==>  describes the changes be saved.
+
+
+git branch ==> displays / lists out all the branchs in our git repository.
+
+git push ==> sends your copy of the work to the remote server.
+
+git pull ==> downloads work from the remote server to your local computer
+
+
+README.md ==> tells people what your repo is all about.
